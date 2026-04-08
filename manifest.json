@@ -1,0 +1,15 @@
+{
+  "name": "Завод: Ремонтная Служба",
+  "short_name": "Ремонт",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f9",
+  "theme_color": "#2196F3",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1160/1160358.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
